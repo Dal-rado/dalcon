@@ -1,0 +1,25 @@
+li{
+    float: left;
+    margin: 30px;
+    padding: 10px;
+
+
+}
+button{
+    background-color: dimgray;
+}
+h1{
+    text-align: center;
+    font-family: Gigi;
+    margin: 3px;
+    border-color: black;
+    font-size: xxx-large;
+}
+
+body{
+    background-color: lightgray;
+}
+img{
+    align-content: center;
+    margin: 64px;
+}
